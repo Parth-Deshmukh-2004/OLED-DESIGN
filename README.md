@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parth-Deshmukh-2004
-- 👀 I’m interested in ..web development 
-- 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..IOT
+- 🌱 I’m currently learning ...Web dev over ESP
+- 💞️ I’m looking to collaborate on ...biomedical engineering and AI
 - 📫 How to reach me ...This is my Email parthdeshmukh2004@gmail.com
 - ⚡ Fun fact: ...You dont need any efforts to talk with me.
 
